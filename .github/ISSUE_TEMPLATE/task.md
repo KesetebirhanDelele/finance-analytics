@@ -1,0 +1,1 @@
+---\nname: Task\nabout: Create a new Agile task\ntitle: "[TASK] "\nlabels: ["to-do"]\n---\n\n### 🎯 Description\n### ✅ Acceptance Criteria\n- [ ] Clear input/output\n- [ ] Tested successfully\n- [ ] Documented in README
